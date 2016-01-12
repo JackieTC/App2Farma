@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">FullFarma</string>
+
+    <string name="app_version">Version 0.5</string>
+    <string name="copyright">Copyright &#169; 2015</string>
+    <string name="email_address">xxxxxx@gmail.com</string>
+
+	<string name="parse_application_id">V0c7q2d6VCVuc0LXZmk3ZZbUjI4UMhIrgWmekZxP</string>
+	<string name="parse_client_key">VjtLo0qel4L3hpWSModBkBB4oPEUUEZHikHOVo7z</string>
+    
+    <string name="more_apps">https://play.google.com/store/apps/developer?id=xxxxxx</string>
+    
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="no_phone">El dispositivo no admite la función de llamada de teléfono</string>
+    <string name="no_internet">Por favor, permitir la conexión a Internet antes de utilizar esta aplicación</string>
+    <string name="category_list">Escoja una Categoría</string>
+    <string name="search">Menú de búsqueda</string>
+	<string name="detail">Detalle</string>
+	<string name="add">Agregue esto a mi pedido</string>
+	<string name="share_btn">Compartir esto</string>
+	<string name="share">Compartir</string>
+	<string name="contact">Contáctenos</string>
+	<string name="callus">LLámanos</string>
+    <string name="alert">No se pudo conectar a Internet!</string>
+    <string name="not_found">¡No se encontro ._. !</string>
+    <string name="number_order">Cantidad de Pedido: </string>
+    <string name="order">Pedido</string>
+    <string name="my_order">Detalle del Pedido</string>
+    <string name="total_order">Total del pedido:</string>
+    <string name="clear_order">Borrar todo el Pedido</string>
+    <string name="clear_all_order">¿Quiere limpiar su todo su Pedido?</string>
+	<string name="clear_one_order">¿Quieres eliminar este pedido?</string>
+	<string name="db_exist_alert">¿Quieres eliminar su pedido anterior?</string>
+	<string name="confirm">Confirmación</string>
+	<string name="reservation">Reserva</string>
+	<string name="your_name">Su nombre</string>
+	<string name="address">Su dirección</string>
+	<string name="city">Su ciudad</string>
+	<string name="province">Su Provincia</string>
+	<string name="email">Su Email</string>
+	<string name="number_of_people">Número de personas</string>
+	<string name="date">Establecer fecha</string>
+	<string name="time">Establecer Hora</string>
+	<string name="phone_number">Número de teléfono</string>
+	<string name="order_list">Lista de Pedidos</string>
+	<string name="send_reservation">Enviar</string>
+	<string name="form_alert">Por favor, complete primero el formulario.</string>
+	<string name="sending_alert">El envío de datos. por favor espere &#8230;</string>
+	<string name="ok_alert">Su pedido ha sido enviado con éxito.</string>
+	<string name="failed_alert">Su pedido no se ha enviado.</string>
+	<string name="no_order">Su pedido está vacío, pida por favor primero.</string>
+	<string name="check_order_later">Compruebe si usted quiere pedir más tarde</string>
+	<string name="order_later">Pedir más tarde</string>
+	 <string name="desc_list_item_icon">Icono Elemento</string>
+	<string name="no_order_menu">Sin Pedido</string>
+	<string name="order_alert">Usted no ha pedido todavía</string>
+	<string name="add_comment">Comentario (Opcional)</string>
+	<string name="menu_settings">Ajustes</string>
+	<string name="app_info">Información de la aplicación</string>
+	<string name="main_menu">Menú principal</string>
+	<string name="title_activity_home">Casa</string>
+	<string name="more">Menu 1</string>
+	<string name="rate">Menu 2</string>
+	<string-array name="main_menu_list">
+        <item >Lista de menús</item>
+        <item >Su pedido</item>
+        <item >Confirmación</item>
+    </string-array>
+    
+	<string name="drawer_open">Menú Deslizante Abierto</string>
+    <string name="drawer_close">Menú Deslizante Cerrado</string>
+    
+	<string name="menu_product">Producto</string>
+	<string name="menu_cart">Carrito</string>
+	<string name="menu_checkout">Checkout</string>
+	<string name="menu_profile">Perfil</string>
+	<string name="menu_info">Información</string>
+	<string name="menu_about">Acerca de</string>
+	<string name="menu_share">Compartir</string>
+	<string name="menu_contact">Contacto</string>
+     
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Inicio</item>
+        <item>Producto</item>
+        <item>Carrito</item>
+        <item>Checkout</item>
+        <item>Perfil</item>
+        <item>Información</item>
+        <item>Acerca de</item>
+        <item>Compartir</item>
+        <item>Contacto</item>
+        <item>Salir</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons, keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>       
+        <item>@drawable/ic_product</item>
+        <item>@drawable/ic_cart</item>
+        <item>@drawable/ic_checkout</item>
+        <item>@drawable/ic_profile</item>
+        <item>@drawable/ic_info</item>
+        <item>@drawable/ic_about</item>
+        <item>@drawable/ic_share</item>
+        <item>@drawable/ic_contact</item>
+        <item>@drawable/ic_exit</item>
+    </array>
+      
+	<string name="profile_tab1">
+		aaaaa
+	</string>	
+	<string name="profile_tab2">
+		bbbbb
+	</string>
+	
+	<string name="information_tab1">
+		cccccc
+	</string>	
+	<string name="information_tab2">
+	    dddddd
+	</string>	
+	<string name="information_tab3">
+	    eeeeee
+	</string>
+	
+	<string name="success_order">
+		Gracias mucho, su pedido ha sido enviado con éxito.
+	</string>
+	
+</resources>
